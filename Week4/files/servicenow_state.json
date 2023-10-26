@@ -1,0 +1,113 @@
+{
+  "cookies": [
+    {
+      "name": "glide_user_route",
+      "value": "glide.f0cba9a33aa698e8fb0ee07742ee14fd",
+      "domain": "dev189340.service-now.com",
+      "path": "/",
+      "expires": 1732882552.262274,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "glide_node_id_for_js",
+      "value": "696056e47d0a9c1e0fe6008dfc6dd806cbc5b3d8ccc424c41e2dc5bbeee1b08d",
+      "domain": "dev189340.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "BIGipServerpool_dev189340",
+      "value": "562077194.33344.0000",
+      "domain": "dev189340.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__CJ_g_startTime",
+      "value": "%221698322572447%22",
+      "domain": "dev189340.service-now.com",
+      "path": "/",
+      "expires": 1698326172,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "3830B59D20DC077A0CB7FDEE22080845",
+      "domain": "dev189340.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "glide_user_activity",
+      "value": "U0N2M18xOlUxNlpEQTIvaER5Y3hJSDdqcnNyYTFKekFMVFE1aUllRTVDWjk5eHR0Rjg9OnZQYlUybUgyeFhxQkJVU0pUd1d5dzk1MWU3RmNlei9GUWkwNlRoa3hSRVU9",
+      "domain": "dev189340.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "glide_session_store",
+      "value": "C89281FE93423110969D7EE32BBA103B",
+      "domain": "dev189340.service-now.com",
+      "path": "/",
+      "expires": 1698327977.140243,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://dev189340.service-now.com",
+      "localStorage": [
+        {
+          "name": "now-icon-cache",
+          "value": "{\"star-outline_md\":\"{\\\"data\\\":\\\"M7.049 2.359c.3-.921 1.603-.921 1.902 0l1.183 3.64h3.827c.969 0 1.372 1.24.588 1.81l-3.096 2.249 1.182 3.64c.3.921-.755 1.687-1.539 1.118L8 12.566l-3.096 2.25c-.784.57-1.839-.197-1.54-1.118l1.183-3.64-3.096-2.25C.667 7.238 1.071 6 2.039 6h3.827L7.05 2.36zm.95.309L6.594 6.999H2.039l3.684 2.677-1.407 4.33L8 11.33l3.684 2.677-1.407-4.331 3.684-2.677H9.407L8 2.668z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\",\"ellipsis-v-outline_md\":\"{\\\"data\\\":\\\"M9.5 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0 4.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zM8 14a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\",\"close-fill_lg\":\"{\\\"data\\\":\\\"M18.293 4.293a1 1 0 1 1 1.414 1.414L13.414 12l6.293 6.293a1 1 0 0 1-1.414 1.414L12 13.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L10.586 12 4.293 5.707a1 1 0 0 1 1.414-1.414L12 10.586l6.293-6.293z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":24}\",\"loader-fill_lg\":\"{\\\"data\\\":\\\"M18.533 3.846a.481.481 0 0 0-.047-.731A10.95 10.95 0 0 0 12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11c0-2.156-.62-4.167-1.692-5.865a.48.48 0 0 0-.748-.073l-1.466 1.465a.522.522 0 0 0-.08.621 8 8 0 1 1-2.579-2.808c.206.139.484.12.66-.056l1.438-1.438z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":24}\",\"user-outline_md\":\"{\\\"data\\\":\\\"M9.852 7.36a3 3 0 1 0-3.704 0C4.3 8.111 3 9.953 3 12.094A2.906 2.906 0 0 0 5.906 15h4.188A2.906 2.906 0 0 0 13 12.094c0-2.141-1.3-3.983-3.148-4.734zM6 5a2 2 0 1 1 4 0 2 2 0 0 1-4 0zm2 3c-2.2 0-4 1.823-4 4.094C4 13.147 4.853 14 5.906 14h4.188A1.906 1.906 0 0 0 12 12.094C12 9.824 10.2 8 8 8z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\",\"gear-outline_md\":\"{\\\"data\\\":\\\"M6 1.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5v.842a5.974 5.974 0 0 1 1.89 1.09l.846-.527a.5.5 0 0 1 .697.175l1.5 2.598a.5.5 0 0 1-.17.675l-.865.538a6.027 6.027 0 0 1 0 2.218l.866.538a.5.5 0 0 1 .169.675l-1.5 2.598a.5.5 0 0 1-.697.175l-.847-.526c-.552.47-1.19.842-1.889 1.09v.841a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-.841a5.995 5.995 0 0 1-1.89-1.09l-.846.526a.5.5 0 0 1-.697-.175l-1.5-2.598a.5.5 0 0 1 .17-.675l.865-.538a6.03 6.03 0 0 1-.005-2.188l-.827-.428a.5.5 0 0 1-.203-.694l1.5-2.598a.5.5 0 0 1 .663-.194l.858.444A5.995 5.995 0 0 1 6 2.34V1.5zM7 2v.707a.5.5 0 0 1-.364.481 4.994 4.994 0 0 0-2.12 1.226.5.5 0 0 1-.578.085l-.744-.385-1 1.732.702.363a.5.5 0 0 1 .255.566 5.012 5.012 0 0 0 0 2.45.5.5 0 0 1-.22.547l-.756.469 1 1.732.729-.453a.5.5 0 0 1 .612.066c.587.57 1.312.997 2.12 1.226a.5.5 0 0 1 .364.481V14h2v-.707a.5.5 0 0 1 .364-.481 4.995 4.995 0 0 0 2.12-1.226.5.5 0 0 1 .612-.066l.73.453.999-1.732-.755-.469a.5.5 0 0 1-.221-.547 5.011 5.011 0 0 0 0-2.45.5.5 0 0 1 .22-.547l.756-.47-1-1.73-.729.452a.5.5 0 0 1-.612-.066 4.994 4.994 0 0 0-2.12-1.226A.5.5 0 0 1 9 2.707V2H7zm1 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM5 8a3 3 0 1 1 6 0 3 3 0 0 1-6 0z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\",\"eye-outline_md\":\"{\\\"data\\\":\\\"<path d='M8 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM6 8a2 2 0 1 1 4 0 2 2 0 0 1-4 0z'></path><path d='M8 3.5c-3.527 0-5.823 2.242-6.735 3.859a1.302 1.302 0 0 0 0 1.282C2.177 10.258 4.473 12.5 8 12.5c3.526 0 5.823-2.242 6.735-3.859a1.303 1.303 0 0 0 0-1.282C13.823 5.742 11.526 3.5 8 3.5zM2.135 7.85C2.923 6.456 4.93 4.5 8 4.5c3.07 0 5.077 1.956 5.864 3.35a.302.302 0 0 1 0 .3C13.077 9.544 11.071 11.5 8 11.5c-3.071 0-5.077-1.956-5.865-3.35a.302.302 0 0 1 0-.3z'></path>\\\",\\\"isPathFragment\\\":false,\\\"pixelSize\\\":16}\",\"square-arrow-left-outline_md\":\"{\\\"data\\\":\\\"<path d='m5.707 8 2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7H10.5a.5.5 0 0 1 0 1H5.707z'></path><path d='M2.5 14A1.5 1.5 0 0 1 1 12.5v-10A1.5 1.5 0 0 1 2.5 1h10A1.5 1.5 0 0 1 14 2.5v10a1.5 1.5 0 0 1-1.5 1.5h-10zM2 12.5a.5.5 0 0 0 .5.5h10a.5.5 0 0 0 .5-.5v-10a.5.5 0 0 0-.5-.5h-10a.5.5 0 0 0-.5.5v10z'></path>\\\",\\\"isPathFragment\\\":false,\\\"pixelSize\\\":16}\",\"globe-outline_md\":\"{\\\"data\\\":\\\"M15 8A7 7 0 1 1 1 8a7 7 0 0 1 14 0zM7.397 2.347C7.64 2.08 7.844 2 8 2c.156 0 .36.08.603.347.243.267.485.682.698 1.236.159.414.297.89.407 1.417H6.292c.11-.527.248-1.003.407-1.417.213-.554.455-.969.698-1.236zM5.272 5a10.53 10.53 0 0 1 .494-1.776 6.18 6.18 0 0 1 .457-.957A6.016 6.016 0 0 0 2.803 5h2.47zm-2.93 1h2.775A16.827 16.827 0 0 0 5 8c0 .693.04 1.365.117 2H2.34A5.99 5.99 0 0 1 2 8c0-.701.12-1.374.341-2zm.46 5a6.016 6.016 0 0 0 3.421 2.733 6.179 6.179 0 0 1-.457-.957A10.53 10.53 0 0 1 5.272 11h-2.47zm3.49 0a9.26 9.26 0 0 0 .407 1.417c.213.554.455.969.698 1.236.243.267.447.347.603.347.156 0 .36-.08.603-.347.243-.267.485-.682.698-1.236A9.26 9.26 0 0 0 9.708 11H6.292zm4.436 0a10.523 10.523 0 0 1-.494 1.776 6.155 6.155 0 0 1-.457.957A6.016 6.016 0 0 0 13.197 11h-2.47zm2.93-1h-2.775c.076-.635.117-1.307.117-2 0-.693-.04-1.365-.117-2h2.776A5.99 5.99 0 0 1 14 8a5.99 5.99 0 0 1-.341 2zm-.46-5a6.016 6.016 0 0 0-3.421-2.733c.17.285.323.608.457.957.201.522.368 1.12.494 1.776h2.47zM9.874 6c.08.625.125 1.297.125 2 0 .703-.044 1.375-.125 2h-3.75A15.731 15.731 0 0 1 6 8c0-.703.044-1.375.125-2h3.75z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\",\"ongoing-outline_md\":\"{\\\"data\\\":\\\"M5.5 2C3.08 2 1 3.73 1 6c0 .961.38 1.835 1 2.516V10.5a.5.5 0 0 0 .82.384l1.293-1.077a5.02 5.02 0 0 0 2.016.154C6.618 11.74 8.435 13 10.5 13c.483 0 .95-.068 1.387-.193l1.293 1.077A.5.5 0 0 0 14 13.5v-1.984c.62-.68 1-1.555 1-2.516 0-2.27-2.08-4-4.5-4a4.84 4.84 0 0 0-.629.04C9.382 3.26 7.565 2 5.5 2zM2 6c0-1.596 1.502-3 3.5-3S9 4.404 9 6 7.498 9 5.5 9c-.472 0-.921-.08-1.33-.225a.5.5 0 0 0-.486.088L3 9.433V8.314a.5.5 0 0 0-.148-.355C2.314 7.426 2 6.74 2 6zm8 .03c-.014 1.73-1.236 3.141-2.892 3.705C7.486 11.004 8.818 12 10.5 12c.473 0 .921-.08 1.33-.225a.5.5 0 0 1 .486.088l.684.57v-1.118a.5.5 0 0 1 .148-.355C13.686 10.426 14 9.74 14 9c0-1.596-1.502-3-3.5-3-.17 0-.337.01-.5.03z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\",\"circle-question-outline_md\":\"{\\\"data\\\":\\\"<path d='M7.5 4C6.658 4 6 4.606 6 5.5a.5.5 0 0 1-1 0C5 4.027 6.132 3 7.5 3 8.913 3 10 4.216 10 5.643c0 .489-.126.913-.377 1.257a2.028 2.028 0 0 1-.97.703C8.22 7.76 8 8.043 8 8.286V8.5a.5.5 0 0 1-1 0v-.214c0-.862.708-1.405 1.313-1.624.23-.083.394-.203.502-.35.107-.147.185-.357.185-.67C9 4.703 8.296 4 7.5 4zm0 7a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z'></path><path d='M0 7.5a7.5 7.5 0 1 0 15 0 7.5 7.5 0 0 0-15 0zM7.5 14a6.5 6.5 0 1 1 0-13 6.5 6.5 0 0 1 0 13z'></path>\\\",\\\"isPathFragment\\\":false,\\\"pixelSize\\\":16}\",\"bell-outline_md\":\"{\\\"data\\\":\\\"M8 2a5 5 0 0 0-5 5v2.085A1.5 1.5 0 0 0 3.5 12H6a2 2 0 1 0 4 0h2.5a1.5 1.5 0 0 0 .5-2.915V7a5 5 0 0 0-5-5zM4 7a4 4 0 1 1 8 0v2.5a.5.5 0 0 0 .5.5.5.5 0 0 1 0 1h-9a.5.5 0 0 1 0-1 .5.5 0 0 0 .5-.5V7zm5 5a1 1 0 1 1-2 0h2z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\",\"presence-available-fill_sm\":\"{\\\"data\\\":\\\"M6.5 10a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm1.354-3.646a.5.5 0 1 0-.708-.708L6 6.793l-.396-.397a.5.5 0 1 0-.708.708l.75.75a.5.5 0 0 0 .708 0l1.5-1.5z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":12}\",\"serverbox-outline_sm\":\"{\\\"data\\\":\\\"M1.5 1A1.5 1.5 0 0 0 0 2.5v2c0 .384.144.735.382 1A1.494 1.494 0 0 0 0 6.5v2A1.5 1.5 0 0 0 1.5 10h8A1.5 1.5 0 0 0 11 8.5v-2c0-.384-.144-.735-.382-1 .238-.265.382-.616.382-1v-2A1.5 1.5 0 0 0 9.5 1h-8zm0 5a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 .5.5h8a.5.5 0 0 0 .5-.5v-2a.5.5 0 0 0-.5-.5h-8zM1 2.5a.5.5 0 0 1 .5-.5h8a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5h-8a.5.5 0 0 1-.5-.5v-2zm1 .75A.25.25 0 0 1 2.25 3h.5a.25.25 0 0 1 .25.25v.5a.25.25 0 0 1-.25.25h-.5A.25.25 0 0 1 2 3.75v-.5zM4.25 3a.25.25 0 0 0-.25.25v.5c0 .138.112.25.25.25h.5A.25.25 0 0 0 5 3.75v-.5A.25.25 0 0 0 4.75 3h-.5zM6 3.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5zM2.25 7a.25.25 0 0 0-.25.25v.5c0 .138.112.25.25.25h.5A.25.25 0 0 0 3 7.75v-.5A.25.25 0 0 0 2.75 7h-.5zM4 7.25A.25.25 0 0 1 4.25 7h.5a.25.25 0 0 1 .25.25v.5a.25.25 0 0 1-.25.25h-.5A.25.25 0 0 1 4 7.75v-.5zM6.5 7a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":12}\",\"arrow-up-outline_md\":\"{\\\"data\\\":\\\"M2.854 6.854a.5.5 0 1 1-.708-.708l5-5a.5.5 0 0 1 .708 0l5 5a.5.5 0 0 1-.708.708L8 2.707V14.5a.5.5 0 0 1-1 0V2.707L2.854 6.854z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\",\"magnifying-glass-outline_md\":\"{\\\"data\\\":\\\"M10.727 10.02a5.5 5.5 0 1 0-.707.707l4.127 4.127a.5.5 0 1 0 .707-.707l-4.127-4.127zM11 6.5a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\",\"caret-down-fill_md\":\"{\\\"data\\\":\\\"M12.5 5a.5.5 0 0 1 .372.834l-4.5 5a.5.5 0 0 1-.744 0l-4.5-5A.5.5 0 0 1 3.5 5h9z\\\",\\\"isPathFragment\\\":true,\\\"pixelSize\\\":16}\"}"
+        },
+        {
+          "name": "sn.polaris.6816f79cc0a8016401c5a33be04be441.userRolesCount.en",
+          "value": "{\"value\":30,\"ttl\":300000,\"ts\":1698322578117}"
+        },
+        {
+          "name": "sn:d5e53fc01b063d54ba5ceb9b2d4bcb19:635911e2732130107d804c9885f6a78f:user",
+          "value": "\"5df770fa60fb6ae1caf0326127e92a77c844a1b5484ae8adb201a396877b22c2\""
+        },
+        {
+          "name": "simpleStorage",
+          "value": "{\"simpleStorageSynch\":\"229d203293023110969d7ee32bba1067\",\"MSG_en_undefined\":1698322557955,\"MSG_en_Stop Guided Tour\":\"Stop Guided Tour\",\"MSG_en_Do you want to stop this tour from auto launching again?\":\"Do you want to stop this tour from auto launching again?\",\"MSG_en_%d minutes_verbose\":\"%d minutes\",\"MSG_en_Server\":\"Server\",\"MSG_en_Undo mark row for deletion\":\"Undo mark row for deletion\",\"MSG_en_Error in fetching tour details\":\"Error in fetching tour details\",\"MSG_en_Time Range\":\"Time Range\",\"MSG_en_#{HTML:name} Template Applied\":\"#{HTML:name} Template Applied\",\"MSG_en_Yes\":\"Yes\",\"MSG_en_Hide column search row\":\"Hide column search row\",\"MSG_en_Displays Next search result content\":\"Displays Next search result content\",\"MSG_en_%d years_verbose\":\"%d years\",\"MSG_en_Showing rows {0} to {1} of {2}\":\"Showing rows {0} to {1} of {2}\",\"MSG_en_Displays previous search result content\":\"Displays previous search result content\",\"MSG_en_%d days_verbose\":\"%d days\",\"MSG_en_about %d hours_verbose\":\"%d hours\",\"MSG_en_Unload\":\"Unload\",\"MSG_en_Timing Type\":\"Timing Type\",\"MSG_en_AC incident caller_id\":\"AC incident caller_id\",\"MSG_en_Mark row for deletion\":\"Mark row for deletion\",\"MSG_en_Displays Next search result content \":\"Displays Next search result content \",\"MSG_en_No\":\"No\",\"MSG_en_Delete row\":\"Delete row\",\"MSG_en_Filtered {0} list showing {1} records\":\"Filtered {0} list showing {1} records\",\"MSG_en_Sorted in ascending order\":\"Sorted in ascending order\",\"MSG_en_By default, this displays results related to the '{0}' field\":\"By default, this displays results related to the '{0}' field\",\"MSG_en_DOM Processing\":\"DOM Processing\",\"MSG_en_Total Time\":\"Total Time\",\"MSG_en_{0} (All)\":\"{0} (All)\",\"MSG_en_Apply for all tours on this page\":\"Apply for all tours on this page\",\"MSG_en_Currently selected: \":\"Currently selected: \",\"MSG_en_Cache/DNS/TCP\":\"Cache/DNS/TCP\",\"MSG_en_Mark for deletion\":\"Mark for deletion\",\"MSG_en_%d months_verbose\":\"%d months\",\"MSG_en_Email body\":\"Email body\",\"MSG_en_Tour ended because the next step was not found.\":\"Tour ended because the next step was not found.\",\"MSG_en_{0}ms\":\"{0}ms\",\"MSG_en_ (Customer visible)\":\" (Customer visible)\",\"MSG_en_onLoad\":\"onLoad\",\"MSG_en_Undo mark for deletion\":\"Undo mark for deletion\",\"MSG_en_to\":\"To\",\"MSG_en_Section Tab Lists\":\"Section Tab Lists\",\"MSG_en_Confirmation\":\"Confirmation\",\"MSG_en_Tour was abandoned\":\"Tour was abandoned\",\"MSG_en_Attaches the knowledge article to this form on save\":\"Attaches the knowledge article to this form on save\"}"
+        },
+        {
+          "name": "sn:d5e53fc01b063d54ba5ceb9b2d4bcb19:635911e2732130107d804c9885f6a78f:consent",
+          "value": "\"Full\""
+        },
+        {
+          "name": "__nxui__unified_cache__version",
+          "value": "886fb1d9-383a-4fca-b955-5fd6d34e2c4d"
+        },
+        {
+          "name": "sn.polaris.6816f79cc0a8016401c5a33be04be441.mainLogoWidth.en",
+          "value": "{\"value\":194,\"ttl\":300000,\"ts\":1698322578559}"
+        },
+        {
+          "name": "sn:d5e53fc01b063d54ba5ceb9b2d4bcb19:635911e2732130107d804c9885f6a78f:browser",
+          "value": "\"648349d7b7264aaaba42283b74be5aed\""
+        }
+      ]
+    }
+  ]
+}
